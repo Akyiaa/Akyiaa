@@ -27,6 +27,8 @@ Learning more about:
 
 🤝🏽Agile + Scrum
 
+🧊Unity
+
 
 ## Skills 🤹🏽
 Java | Python | JavaScript

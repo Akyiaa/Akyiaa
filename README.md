@@ -29,6 +29,8 @@ Learning more about:
 
 🧊Unity
 
+🟪Terraform
+
 
 ## Skills 🤹🏽
 Java | Python | JavaScript

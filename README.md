@@ -21,6 +21,8 @@ I am an aspiring Software Developer 💻 and a 2nd Year Computer Science student
 ## Current Interests 🔭
 Learning more about:
 
+😎AR 
+
 ☁️Cloud
 
 🐳Docker

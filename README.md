@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 # About ✨Me✨!
-I am an aspiring Software Developer 💻 and a 2nd Year Computer Science student at Queen mary University of London👑.
+I am an aspiring Software Developer 💻 , a 2nd Year Computer Science student at Queen Mary University of London👑 and an Industrial Year Intern at IBM.
 
 
 ## Current Interests 🔭

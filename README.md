@@ -21,13 +21,15 @@ I am an aspiring Software Developer 💻 , a 2nd Year Computer Science student a
 ## Current Interests 🔭
 Learning more about:
 
+🐝Galasa
+
+🤝🏽Agile + Scrum Practices
+
 😎AR 
 
 ☁️Cloud
 
 🐳Docker
-
-🤝🏽Agile + Scrum
 
 🧊Unity
 

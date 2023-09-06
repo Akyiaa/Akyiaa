@@ -37,7 +37,7 @@ Learning more about:
 
 
 ## Skills 🤹🏽
-Java | Python | JavaScript
+Go | Python | Java | Python
 
 
 
